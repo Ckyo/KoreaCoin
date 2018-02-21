@@ -1,4 +1,4 @@
-# ZonberCoin
+# KoreaCoin
 - an educational cryptocurrency. This coin was created to tell you how to make your own coin. You can have your own coin by following a few step guides. This coin originated in SmallChange and is subject to the MIT license.
 
 # Features
