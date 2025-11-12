@@ -9,7 +9,7 @@
 - currently peers are looked up over IRC only
 
 # About
-- BLOG: http://ssletv.com
+- BLOG: http://www.ssletv.com
 
 - Copyright (c) 2009-2012 Bitcoin Developers
 - Copyright (c) 2011-2012 Litecoin Developers
